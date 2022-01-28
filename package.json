@@ -1,0 +1,27 @@
+{
+  "name": "chemux",
+  "version": "1.0.0",
+  "description": "Node based Blockchain",
+  "main": "simpleBlock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdPro/CheckMux.git"
+  },
+  "keywords": [
+    "blockchain",
+    "js",
+    "bitcoin"
+  ],
+  "author": "Abhinav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UdPro/CheckMux/issues"
+  },
+  "homepage": "https://github.com/UdPro/CheckMux#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
